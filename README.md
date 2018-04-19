@@ -1,6 +1,6 @@
 <b>Line-Calculator</b></br>
 
-Your task is to implement class Line Calculator. All methods in class should be support dot notation.</br>
+Your task is to implement class Line Calculator.</br>
 The priority of different operations should be kept in mind. It means, that 2 + 2 * 2 is 6, not 8.</br>
 
 <b>Details:</b></br>
